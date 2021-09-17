@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+![](https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif)
 <!--
 **LanusseMorais/LanusseMorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
