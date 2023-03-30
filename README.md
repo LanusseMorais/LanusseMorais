@@ -1,13 +1,16 @@
 ### Hi there 👋
 
 
-![](https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif)
+## I'm Thalita Lanusse (a.k.a. Lanusse).
 
-- 🔭 I’m currently working on Itaú Unibanco
-- 🌱 I’m currently learning Go 
-- 💬 Ask me about anything
+- 🔭 I’m currently working as a SRE at Itaú Unibanco
+- 🌱 Learning more about Sofware Development.
 - 📫 How to reach me: lanusse-morais@fedoraproject.org;thalita.lanusse@gmail.com
 - 😄 Pronouns: She/Her
+
+### 🛠 Tech Stack
+
+- 💻 Docker | Ansible | Python | Terraform 
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LanusseMorais)](https://github.com/LanusseMorais)
